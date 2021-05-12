@@ -1,25 +1,33 @@
 ---
-name: 論文要約
-about: 読んだ論文のまとめ
+name: Custom paper summary template
+about: Paper Summary
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
-## Title:
+# INFO
+## author
 
-### URL
-+
+## affiliation
 
-### 著者
-+
+## conference or year
 
-### 概要
-+
+## link
+[arXiv]()
+[実装]()
 
-### 提案手法
-+
+# 概要
 
-### 新規性
-+
+# 提案手法
 
-### 考察
-+
+# 検証
+
+# 新規性
+
+# 議論，展望
+
+# Comment
+
+# date
